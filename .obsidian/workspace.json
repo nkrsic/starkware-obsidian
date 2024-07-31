@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "43ac6a88971d1ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b9abd819e0aa0a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed6210145b04526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starkware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5381d67ab7e2944a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FFT (Fast Fourier Transform).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dd6514f95012270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRI (Fast RS IOPP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9f7453a72cd8a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IOPP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a522cd811055857a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRI (Fast RS IOPP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fa585190888449f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circle STARK Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd1658d2d16b43a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prime field M31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32af402c3e70be89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stwo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19d7bddce050e964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classical STARK Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3697ebf957b93b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cairo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "292565a54b326041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cairo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb49ef8b5aae8f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4999aa76-ad0b-411e-a142-4b40bc948365.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2683f51d91a68bad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d90fc1845923981b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "761317310f3e9d05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f75d5759d369e9f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b0b9e68da20b1d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6125ed97a2a9b4c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60f9b0e6511276e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d44795826a2fcc41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4999aa76-ad0b-411e-a142-4b40bc948365.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f422fd6c78f91bb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4999aa76-ad0b-411e-a142-4b40bc948365.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a49050a48d499df1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed2def05984d70e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4999aa76-ad0b-411e-a142-4b40bc948365.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cb49ef8b5aae8f89",
+  "lastOpenFiles": [
+    "Cairo.md",
+    "4999aa76-ad0b-411e-a142-4b40bc948365.md",
+    "Sierra.md",
+    "Classical STARK Protocol.md",
+    "Stwo.md",
+    "Prime field M31.md",
+    "Circle STARK Protocol.md",
+    "FRI (Fast RS IOPP).md",
+    "IOPP.md",
+    "Reed-Solomon.md",
+    "Starkware.md",
+    "FFT (Fast Fourier Transform).md",
+    "Welcome.md"
+  ]
+}
